@@ -19,6 +19,6 @@ _Sandbox does not work_ I have made this to prevent making changes to the origin
 though if you wish to do so.
 
 # VR Installation
-Download and follow installation instructions from the original vrmod creator (here)[https://github.com/catsethecat/vrmod-module]. You do
+Download and follow installation instructions from the original vrmod creator [here](https://github.com/catsethecat/vrmod-module). You do
 not have to install the lua as it may interfere with this. They did an awesome job too, I just went off and created my own thing to learn
 how to develop a VR project.
