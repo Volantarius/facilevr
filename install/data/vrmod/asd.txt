@@ -1,0 +1,15 @@
+{
+               "inputs" : {
+                  "click" : {
+                     "output" : "/actions/main/in/boolean_use"
+                  }
+               },
+               "mode" : "button",
+               "parameters" : {
+                  "force_input" : "force",
+	       "click_activate_threshold": "0.45",
+	       "click_deactivate_threshold": "0.4",
+                  "haptic_amplitude" : "0"
+               },
+               "path" : "/user/hand/left/input/grip"
+            },

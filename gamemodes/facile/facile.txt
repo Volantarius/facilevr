@@ -1,0 +1,46 @@
+"facile"
+{
+	"title"			"Facile"
+	"menusystem"	"1"
+	"workshopid"	""
+	
+	// Facile settings
+
+	"version"	"1"
+	"author_name"	"Volantarius"
+	"author_email"	""
+	"author_url"	""
+	"selectable"	"1"
+	"description"	"Facile Base"
+
+	"facile_games"
+	{
+		1 { "cstrike" "0" }
+		2 { "hl2mp" "0" }
+		3 { "hl1mp" "0" }
+		4 { "thirdparty" "1" }
+		5 { "DOWNLOAD" "1" }
+	}
+
+	"facile_maps"
+	{
+		1 "cs_"
+		2 "de_"
+		3 "aim_"
+		4 "gg_"
+		5 "ttt_"
+		6 "dm_"
+	}
+	
+	"settings"
+	{
+		1 {
+			"name" "gmod_maxammo"
+			"text" "gmod_maxammo"
+			"help" "Forces amount of maximum ammo for all weapons. 0 and below set to ammo defaults."
+			"type" "Numeric"
+			"default" "400"
+			"singleplayer" "1"
+		}
+	}
+}
